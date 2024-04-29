@@ -1,1 +1,18 @@
-/* Start coding here */
+.container {
+  background-color: lightgrey;
+  padding: 50px;
+  height: 100vh;
+  width: 100vw;
+}
+.box-1 {
+  background-color: orange;
+  height: 25vh;
+}
+.box-2 {
+  background-color: khaki;
+  height: 25vh;
+}
+.box-3 {
+  background-color: cornflowerblue;
+  height: 50vh;
+}
